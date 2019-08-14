@@ -1,0 +1,19 @@
+{
+  "docs": {
+    "Docusaurus": [
+      "doc1",
+      {
+        "type": "subcategory",
+        "label": "My Example Subcategory",
+        "ids": [
+          "doc2"
+        ]
+      }
+    ],
+    "First Category": ["doc4"],
+    "Second Category": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc5"]
+  }
+}
