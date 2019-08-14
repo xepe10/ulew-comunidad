@@ -40,15 +40,17 @@ const siteConfig = {
   headerLinks: [
     {blog: true, label: 'Blog'},
     {doc: 'doc1', label: 'Aprende'},
-    {doc: 'doc4', label: 'Eventos'},
+    {doc: 'doc5', label: 'Eventos'},
   ],
+  blogSidebarTitle: { default: 'Posts Recientes', all: 'Todos los Posts' },
+  blogSidebarCount: '10',
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
   headerIcon: 'img/logo.png',
-  footerIcon: 'img/logo.png',
+  footerIcon: 'img/udeulewWhite.png',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
@@ -72,7 +74,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} Ulew Cocktail Bar`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
