@@ -91,9 +91,9 @@ const siteConfig = {
   ogImage: 'img/undraw_online.svg',
   twitterImage: 'img/undraw_tweetstorm.svg',
 
-  facebookAppId: '2538907376383809',
+  facebookAppId: '493218638079469',
   facebookComments: true,
-  
+
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
   // docsSideNavCollapsible: true,
